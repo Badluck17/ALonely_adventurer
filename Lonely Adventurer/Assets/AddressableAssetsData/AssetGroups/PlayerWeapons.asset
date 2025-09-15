@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: PlayerWeapons
+  m_EditorClassIdentifier: 
+  m_GroupName: PlayerWeapons
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 14954dec01fcda943931fc93375c9a9c
+  m_SerializeEntries:
+  - m_GUID: e0fc94744b79f494d8657d561f3c0374
+    m_Address: Assets/Prefabs/PlayerWeapons/pistolAttackArea.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayerWeapon
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 96b80bb7c904d62439324a049aedbc7d
+    m_Address: Assets/Prefabs/PlayerWeapons/shotgunAttackArea.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayerWeapon
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: dc28ed66be6e7d94bbdddf01a8dba7ef
+    m_Address: Assets/Prefabs/PlayerWeapons/sniperAttackArea.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayerWeapon
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ab894046567baca46a19a5679073f05c
+    m_Address: Assets/Prefabs/PlayerWeapons/gauntletGunAttackArea.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayerWeapon
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 988507608560772459939e4c68ab825b
+    m_Address: Assets/Prefabs/PlayerWeapons/c4AttackArea.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayerWeapon
+    m_MainAsset: {fileID: 2709743525794269621, guid: 988507608560772459939e4c68ab825b, type: 3}
+    m_TargetAsset: {fileID: 2709743525794269621, guid: 988507608560772459939e4c68ab825b, type: 3}
+  - m_GUID: 3d0cd069071c59243a8f05246f6ceeb3
+    m_Address: Assets/Prefabs/PlayerWeapons/energyGunAttackArea.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayerWeapon
+    m_MainAsset: {fileID: 2709743525794269621, guid: 3d0cd069071c59243a8f05246f6ceeb3, type: 3}
+    m_TargetAsset: {fileID: 2709743525794269621, guid: 3d0cd069071c59243a8f05246f6ceeb3, type: 3}
+  - m_GUID: 9d37363cdac508541b3662e86144c1fc
+    m_Address: Assets/Prefabs/PlayerWeapons/energySniperAttackArea.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayerWeapon
+    m_MainAsset: {fileID: 2709743525794269621, guid: 9d37363cdac508541b3662e86144c1fc, type: 3}
+    m_TargetAsset: {fileID: 2709743525794269621, guid: 9d37363cdac508541b3662e86144c1fc, type: 3}
+  - m_GUID: 66bf9ff5dccc7544190afefd20f67857
+    m_Address: Assets/Prefabs/PlayerWeapons/launcher1AttackArea.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayerWeapon
+    m_MainAsset: {fileID: 2709743525794269621, guid: 66bf9ff5dccc7544190afefd20f67857, type: 3}
+    m_TargetAsset: {fileID: 2709743525794269621, guid: 66bf9ff5dccc7544190afefd20f67857, type: 3}
+  - m_GUID: 6e19522ef26756d40a8658f26023dfde
+    m_Address: Assets/Prefabs/PlayerWeapons/launcher2AttackArea.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayerWeapon
+    m_MainAsset: {fileID: 2709743525794269621, guid: 6e19522ef26756d40a8658f26023dfde, type: 3}
+    m_TargetAsset: {fileID: 2709743525794269621, guid: 6e19522ef26756d40a8658f26023dfde, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 0c566702620dde34794bacea867ae868, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b4bea527ac266f34699987695be1b83c, type: 2}
+    - {fileID: 11400000, guid: 3f942c2073c099b45b360a0eb16b2c99, type: 2}

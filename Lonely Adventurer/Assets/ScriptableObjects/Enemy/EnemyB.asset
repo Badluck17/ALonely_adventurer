@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 889266f4eb01ca54e859d393cc70adb4, type: 3}
+  m_Name: EnemyB
+  m_EditorClassIdentifier: 
+  Name: EnemyB
+  HealthPoint: 45
+  AttackPower: 2
+  DefensePower: 3
+  EvasionRate: 5
+  CritChance: 50
+  CritDamage: 3
+  Type: 0
+  Range: 00000000
+  ExpDrop: 2
+  GoldDrop: 2
+  HealthDropType: 2
+  HealthDropPrecentage: 25
+  DefaultBehavior:
+    BehaviorChance: 35
+    MoveDirections: 
+    HasSkill: 0
+    Skills: []
+  EnemyBehaviors:
+  - BehaviorChance: 50
+    MoveDirections: 0000000003000000
+    HasSkill: 0
+    Skills: []
+  - BehaviorChance: 15
+    MoveDirections: 03000000
+    HasSkill: 1
+    Skills:
+    - Skills: 0
+      Effect: 0

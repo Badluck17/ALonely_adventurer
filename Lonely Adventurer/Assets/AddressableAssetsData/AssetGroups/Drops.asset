@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Drops
+  m_EditorClassIdentifier: 
+  m_GroupName: Drops
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 19c6d3fe7e33e3c4f87dee4ce304f248
+  m_SerializeEntries:
+  - m_GUID: 90c78f77d845c8a4790972b735065c21
+    m_Address: Assets/Prefabs/DropItems/DropXP.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Collectible
+    m_MainAsset: {fileID: 564159900692231680, guid: 90c78f77d845c8a4790972b735065c21, type: 3}
+    m_TargetAsset: {fileID: 564159900692231680, guid: 90c78f77d845c8a4790972b735065c21, type: 3}
+  - m_GUID: 0bc5dc82aa2f97441bad0d14d5531641
+    m_Address: Assets/Prefabs/DropItems/DropHealtBigPotion.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Collectible
+    m_MainAsset: {fileID: 564159900692231680, guid: 0bc5dc82aa2f97441bad0d14d5531641, type: 3}
+    m_TargetAsset: {fileID: 564159900692231680, guid: 0bc5dc82aa2f97441bad0d14d5531641, type: 3}
+  - m_GUID: d5863be024e18bf46a1551ae153b99cd
+    m_Address: Assets/Prefabs/DropItems/DropHealtMediumPotion.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Collectible
+    m_MainAsset: {fileID: 564159900692231680, guid: d5863be024e18bf46a1551ae153b99cd, type: 3}
+    m_TargetAsset: {fileID: 564159900692231680, guid: d5863be024e18bf46a1551ae153b99cd, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 0c566702620dde34794bacea867ae868, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 672bde0b4f9f4384b89add1186eac766, type: 2}
+    - {fileID: 11400000, guid: 5324824d341b0074b995383f982f49f6, type: 2}

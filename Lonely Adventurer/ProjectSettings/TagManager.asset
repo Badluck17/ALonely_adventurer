@@ -2,8 +2,12 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
-  tags: []
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - PlayerAttackArea
+  - FxTemporaire
+  - Collectible
   layers:
   - Default
   - TransparentFX
@@ -18,7 +22,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - NotBloomed
   - 
   - 
   - 
@@ -41,36 +45,20 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Ground
+    uniqueID: 3633438919
+    locked: 0
+  - name: Environtment
+    uniqueID: 1907176387
+    locked: 0
+  - name: Enemys
+    uniqueID: 4212850157
+    locked: 0
+  - name: Drops
+    uniqueID: 1095180371
+    locked: 0
+  - name: Character
+    uniqueID: 949176965
+    locked: 0
   m_RenderingLayers:
   - Default
-  - Light Layer 1
-  - Light Layer 2
-  - Light Layer 3
-  - Light Layer 4
-  - Light Layer 5
-  - Light Layer 6
-  - Light Layer 7
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 

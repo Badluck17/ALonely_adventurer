@@ -1,0 +1,16 @@
+Ice_Effect.png
+size:1196,1196
+filter:Linear,Linear
+pma:true
+Ice effect/Ice_01
+bounds:4,245,496,944
+offsets:1,1,498,946
+Ice effect/Ice_02
+bounds:504,627,644,562
+offsets:1,1,646,564
+Ice effect/Ice_03
+bounds:4,4,736,237
+offsets:1,1,748,239
+Ice effect/Ice_04
+bounds:504,422,495,201
+offsets:2,1,498,203

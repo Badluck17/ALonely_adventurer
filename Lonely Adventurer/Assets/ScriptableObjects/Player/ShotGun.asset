@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e6af67f95f7f464380a74529d336b60, type: 3}
+  m_Name: ShotGun
+  m_EditorClassIdentifier: 
+  Name: 1
+  Type: 1
+  AttackType: 0
+  Skill: 0
+  KnockBackDirection: 3
+  KnockBackPower: 1
+  Damage: 8
+  WeaponDelay: 0
+  AttackAreaObject:
+    m_AssetGUID: 96b80bb7c904d62439324a049aedbc7d
+    m_SubObjectName: 
+    m_SubObjectType: 
+  Description: Shotgun Will burn 1 random enemy for 1 turn. a burned zombie will
+    take further damage on 1 turn, and the damage it deals 1% of the weapon base
+    attack

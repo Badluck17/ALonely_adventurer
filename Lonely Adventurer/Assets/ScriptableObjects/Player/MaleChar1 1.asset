@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2576fa0140a690045836c8bc356c73c4, type: 3}
+  m_Name: MaleChar1 1
+  m_EditorClassIdentifier: 
+  statData:
+  - MaxHP: 100
+    Defense: 2
+    EvasionRate: 1
+    GoldToUpgrade: 10
+  - MaxHP: 110
+    Defense: 3
+    EvasionRate: 1
+    GoldToUpgrade: 15
+  - MaxHP: 120
+    Defense: 4
+    EvasionRate: 2
+    GoldToUpgrade: 23
+  - MaxHP: 130
+    Defense: 5
+    EvasionRate: 2
+    GoldToUpgrade: 35
+  - MaxHP: 140
+    Defense: 6
+    EvasionRate: 3
+    GoldToUpgrade: 53
+  - MaxHP: 150
+    Defense: 7
+    EvasionRate: 3
+    GoldToUpgrade: 80
+  - MaxHP: 160
+    Defense: 8
+    EvasionRate: 3
+    GoldToUpgrade: 120
+  - MaxHP: 170
+    Defense: 9
+    EvasionRate: 4
+    GoldToUpgrade: 180
+  - MaxHP: 180
+    Defense: 10
+    EvasionRate: 4
+    GoldToUpgrade: 180
+  - MaxHP: 190
+    Defense: 11
+    EvasionRate: 5
+    GoldToUpgrade: 405
+  - MaxHP: 200
+    Defense: 12
+    EvasionRate: 5
+    GoldToUpgrade: 608
+  - MaxHP: 210
+    Defense: 13
+    EvasionRate: 5
+    GoldToUpgrade: 912
+  - MaxHP: 220
+    Defense: 14
+    EvasionRate: 6
+    GoldToUpgrade: 1368
+  - MaxHP: 230
+    Defense: 15
+    EvasionRate: 6
+    GoldToUpgrade: 2052
+  - MaxHP: 240
+    Defense: 16
+    EvasionRate: 7
+    GoldToUpgrade: 3078
+  - MaxHP: 250
+    Defense: 17
+    EvasionRate: 7
+    GoldToUpgrade: 4617
+  - MaxHP: 260
+    Defense: 18
+    EvasionRate: 7
+    GoldToUpgrade: 6926
+  - MaxHP: 270
+    Defense: 19
+    EvasionRate: 8
+    GoldToUpgrade: 10386
+  - MaxHP: 280
+    Defense: 20
+    EvasionRate: 8
+    GoldToUpgrade: 15584
+  - MaxHP: 290
+    Defense: 21
+    EvasionRate: 9
+    GoldToUpgrade: 23376
+  - MaxHP: 290
+    Defense: 21
+    EvasionRate: 9
+    GoldToUpgrade: 23376

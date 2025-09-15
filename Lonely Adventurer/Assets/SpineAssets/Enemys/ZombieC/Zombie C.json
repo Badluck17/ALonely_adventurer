@@ -1,0 +1,85 @@
+{ "skeleton": { "images": "D:/Work/gameloft/Game Creation/Character/Enemy/Zombie C/" },
+"PhotoshopToSpine": { "scale": 1, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "L_Leg", "bone": "root", "attachment": "L_Leg" },
+	{ "name": "L_Feet", "bone": "root", "attachment": "L_Feet" },
+	{ "name": "L_Thigh", "bone": "root", "attachment": "L_Thigh" },
+	{ "name": "Bottom", "bone": "root", "attachment": "Bottom" },
+	{ "name": "R_leg", "bone": "root", "attachment": "R_leg" },
+	{ "name": "R_Feet", "bone": "root", "attachment": "R_Feet" },
+	{ "name": "R_Thigh", "bone": "root", "attachment": "R_Thigh" },
+	{ "name": "L_Hand", "bone": "root", "attachment": "L_Hand" },
+	{ "name": "L_Arm_02", "bone": "root", "attachment": "L_Arm_02" },
+	{ "name": "L_Arm_01", "bone": "root", "attachment": "L_Arm_01" },
+	{ "name": "Body", "bone": "root", "attachment": "Body" },
+	{ "name": "Head", "bone": "root", "attachment": "Head" },
+	{ "name": "R_Hand", "bone": "root", "attachment": "R_Hand" },
+	{ "name": "R_Arm_02", "bone": "root", "attachment": "R_Arm_02" },
+	{ "name": "R_Arm_01", "bone": "root", "attachment": "R_Arm_01" },
+	{ "name": "Head_hurt", "bone": "root", "attachment": "Head_hurt" },
+	{ "name": "Head_Attack", "bone": "root", "attachment": "Head_Attack" },
+	{ "name": "effect", "bone": "root", "attachment": "effect" }
+],
+"skins": {
+	"default": {
+		"L_Leg": {
+			"L_Leg": { "x": -29, "y": -770, "width": 146, "height": 352 }
+		},
+		"L_Feet": {
+			"L_Feet": { "x": -68.5, "y": -971, "width": 245, "height": 190 }
+		},
+		"L_Thigh": {
+			"L_Thigh": { "x": 6, "y": -418.5, "width": 258, "height": 511 }
+		},
+		"Bottom": {
+			"Bottom": { "x": 90, "y": -272, "width": 430, "height": 298 }
+		},
+		"R_leg": {
+			"R_leg": { "x": 165, "y": -798, "width": 132, "height": 302 }
+		},
+		"R_Feet": {
+			"R_Feet": { "x": 118.5, "y": -948.5, "width": 325, "height": 291 }
+		},
+		"R_Thigh": {
+			"R_Thigh": { "x": 180, "y": -446, "width": 264, "height": 556 }
+		},
+		"L_Hand": {
+			"L_Hand": { "x": -319, "y": -456, "width": 570, "height": 384 }
+		},
+		"L_Arm_02": {
+			"L_Arm_02": { "x": -238, "y": -246.5, "width": 98, "height": 227 }
+		},
+		"L_Arm_01": {
+			"L_Arm_01": { "x": -198, "y": 62.5, "width": 182, "height": 481 }
+		},
+		"Body": {
+			"Body": { "x": 74.5, "y": -16.5, "width": 491, "height": 655 }
+		},
+		"Head": {
+			"Head": { "x": -144.5, "y": 476.5, "width": 713, "height": 851 }
+		},
+		"R_Hand": {
+			"R_Hand": { "x": 95.5, "y": -397.5, "width": 219, "height": 237 }
+		},
+		"R_Arm_02": {
+			"R_Arm_02": { "x": 39, "y": -188.5, "width": 100, "height": 263 }
+		},
+		"R_Arm_01": {
+			"R_Arm_01": { "x": 88.5, "y": 42.5, "width": 225, "height": 447 }
+		},
+		"Head_hurt": {
+			"Head_hurt": { "x": -144.5, "y": 476.5, "width": 713, "height": 851 }
+		},
+		"Head_Attack": {
+			"Head_Attack": { "x": -144.5, "y": 476.5, "width": 713, "height": 851 }
+		},
+		"effect": {
+			"effect": { "x": -311.5, "y": 50.5, "width": 829, "height": 261 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

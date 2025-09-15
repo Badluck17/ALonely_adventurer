@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 889266f4eb01ca54e859d393cc70adb4, type: 3}
+  m_Name: BossEnemy1
+  m_EditorClassIdentifier: 
+  Name: BossEnemy1
+  HealthPoint: 250
+  AttackPower: 15
+  DefensePower: 5
+  EvasionRate: 18
+  CritChance: 70
+  CritDamage: 23
+  Type: 2
+  Range: 0100000002000000
+  ExpDrop: 20
+  GoldDrop: 2
+  HealthDropType: 3
+  HealthDropPrecentage: 100
+  DefaultBehavior:
+    BehaviorChance: 15
+    MoveDirections: 0100000001000000
+    HasSkill: 0
+    Skills: []
+  EnemyBehaviors:
+  - BehaviorChance: 50
+    MoveDirections: 00000000030000000300000003000000
+    HasSkill: 0
+    Skills: []
+  - BehaviorChance: 35
+    MoveDirections: 
+    HasSkill: 1
+    Skills:
+    - Skills: 4
+      Effect: 30
