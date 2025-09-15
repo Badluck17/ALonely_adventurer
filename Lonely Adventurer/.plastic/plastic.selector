@@ -1,0 +1,4 @@
+repository "Lonely Adventurer/Lonely Adventurer@18968189554156@cloud"
+  path "/"
+    br "/main"
+    co "/main"
